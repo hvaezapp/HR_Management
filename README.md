@@ -5,3 +5,4 @@ Clean Architecture <br/>
 Cqrs <br/>
 Auto Mapper <br/>
 Repository Pattern <br/>
+...
