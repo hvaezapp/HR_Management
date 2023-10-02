@@ -1,7 +1,7 @@
 # HR_Management
-HR_Management 
-Asp.net core
-Clean Architecture
-Cqrs
-Auto Mapper
-Repository Pattern
+
+Asp.net core <br/>
+Clean Architecture <br/>
+Cqrs <br/>
+Auto Mapper <br/>
+Repository Pattern <br/>
