@@ -1,5 +1,4 @@
 ﻿using HR_Management.Application.DTOs;
-using HR_Management.Application.Persistence.Contracts;
 using MediatR;
 using System;
 using System.Collections.Generic;
@@ -9,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace HR_Management.Application.Features.LeaveType.Requests.Queries;
 
-public class GetLeaveTypeListRequest : IRequest<List<LeaveTypeDto>>
+public class GetLeaveTypeDetailRequest : IRequest<LeaveTypeDto>
 {
+    public int Id { get; set; }
 }
